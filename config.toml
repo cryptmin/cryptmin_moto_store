@@ -1,0 +1,6 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Awesome Lighting Inc."
+theme = "simple"
+[Params]
+description = ""
