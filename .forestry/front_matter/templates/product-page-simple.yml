@@ -22,23 +22,15 @@ fields:
   name: thumbnailImage
   label: thumbnailImage
 - type: text
-  name: comparePrice
-  label: comparePrice
-- type: text
   name: actualPrice
   label: actualPrice
 - type: boolean
   name: inStock
   label: inStock
-- type: field_group
-  name: options
-  label: options
-- type: list
-  name: variants
-  label: variants
 - name: instock
   type: boolean
   label: inStock
-  hidden: true
+  hidden: false
+  default: true
 pages:
 - content/products/fuse-box.md
