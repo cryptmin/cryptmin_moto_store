@@ -1,6 +1,6 @@
-baseURL = "http://example.org/"
+baseURL = "https://shop.cryptmin.net/"
 languageCode = "en-us"
-title = "Awesome Lighting Inc."
+title = "Cryptmin Moto"
 theme = "simple"
 [Params]
 description = ""
