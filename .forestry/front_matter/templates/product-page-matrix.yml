@@ -1,0 +1,57 @@
+---
+label: Product Page Matrix
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: datetime
+  name: date
+  label: date
+- type: list
+  name: tags
+  label: tags
+- type: list
+  name: categories
+  label: categories
+- type: image_gallery
+  name: images
+  label: images
+- type: file
+  name: thumbnailImage
+  label: thumbnailImage
+- type: text
+  name: actualPrice
+  label: actualPrice
+- type: text
+  name: comparePrice
+  label: comparePrice
+- type: text
+  name: inStock
+  label: inStock
+- type: field_group
+  name: options
+  label: options
+  fields:
+  - type: list
+    name: Color
+    label: Color
+  - type: list
+    name: Size
+    label: Size
+- type: field_group_list
+  name: variants
+  label: variants
+  fields:
+  - type: list
+    name: optionCombination
+    label: optionCombination
+  - type: text
+    name: comparePrice
+    label: comparePrice
+  - type: text
+    name: actualPrice
+    label: actualPrice
+  - type: boolean
+    name: inStock
+    label: inStock
