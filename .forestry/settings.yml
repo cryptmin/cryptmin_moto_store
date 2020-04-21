@@ -9,7 +9,7 @@ sections:
   label: Products
   create: all
   match: "**/*"
-upload_dir: home/ash/src/cryptmin_moto_store/static/img/*/*
+upload_dir: home/ash/src/cryptmin_moto_store/static/img
 public_path: "/static"
 front_matter_path: ''
 use_front_matter_path: false
