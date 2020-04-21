@@ -35,3 +35,7 @@ fields:
 - type: list
   name: variants
   label: variants
+- name: instock
+  type: boolean
+  label: inStock
+  hidden: true
