@@ -40,3 +40,5 @@ fields:
   type: boolean
   label: inStock
   hidden: true
+pages:
+- content/products/fuse-box.md
