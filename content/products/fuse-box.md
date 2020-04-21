@@ -3,6 +3,7 @@ actualPrice = "$40"
 categories = ["Fuse Box's"]
 comparePrice = ""
 date = 2020-04-21T04:00:00Z
+draft = true
 images = ["static/img/20200419_223825.jpg", "static/img/20200419_223543.jpg", "static/img/20200419_223946.jpg"]
 inStock = true
 instock = false
