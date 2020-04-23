@@ -27,10 +27,11 @@ fields:
 - type: boolean
   name: inStock
   label: inStock
-- name: instock
-  type: boolean
-  label: inStock
-  hidden: false
-  default: true
+- name: sku
+  type: text
+  config:
+    required: false
+  label: sku
+  description: 'Unique name/number, no spaces or special characters. '
 pages:
 - content/products/fuse-box.md
