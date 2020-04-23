@@ -12,7 +12,7 @@ sections:
 upload_dir: static/img
 public_path: "/img"
 front_matter_path: img
-use_front_matter_path: true
+use_front_matter_path: false
 file_template: ":filename:"
 build:
   preview_env:
