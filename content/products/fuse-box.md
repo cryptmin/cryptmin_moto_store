@@ -19,13 +19,13 @@ Plug-and-Play replacement under-seat fusebox for the KLR650 Gen 1.
 
 The OEM fusebox is notorious for melting or the glass fuses cracking.
 
-**Leaving you stranded.** 
+**Leaving you stranded.**
 
 Replace your out-dated fusebox with this modern water-proof, dust-proof and salt spray resistant unit that utilizes easily acquired mini ATC blade fuses.
 
-Made in Canada from high-quality components. 
+Made in Canada from high-quality components.
 
-Requires no cutting or modification to factory harness. 
+Requires no cutting or modification to factory harness.
 
 1. Remove seat
 2. Remove Original fuse box
