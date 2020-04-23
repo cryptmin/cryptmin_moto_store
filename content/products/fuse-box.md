@@ -6,6 +6,7 @@ date = 2020-04-21T04:00:00Z
 images = ["img/20200419_223825.jpg", "img/20200419_223543.jpg", "img/20200419_223946.jpg"]
 inStock = true
 instock = false
+sku = "klr650_fuse_box"
 tags = ["KLR650", "Kawasaki", "KLX650", "M103M1"]
 thumbnailImage = "img/20200419_223543.jpg"
 title = "KLR650 1987-2007 Fuse Box"
@@ -36,4 +37,4 @@ Requires no cutting or modification to factory harness.
 
 * Kawasaki KLR 650 1987-2007 - all models
 * Kawasaki KLX 1993-1996
-* Hayes Diversified Technologies M103M1 
+* Hayes Diversified Technologies M103M1
