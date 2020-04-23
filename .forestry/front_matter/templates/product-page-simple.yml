@@ -33,5 +33,11 @@ fields:
     required: false
   label: sku
   description: 'Unique name/number, no spaces or special characters. '
+- name: description
+  type: text
+  config:
+    required: false
+  label: description
+  description: Basic description of product.
 pages:
 - content/products/fuse-box.md
