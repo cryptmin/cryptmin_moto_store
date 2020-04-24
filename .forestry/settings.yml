@@ -1,15 +1,15 @@
 ---
 new_page_extension: md
 auto_deploy: false
-admin_path:
-webhook_url:
+admin_path: 
+webhook_url: 
 sections:
 - type: directory
   path: content/products
   label: Products
   create: all
   match: "**/*"
-upload_dir: /static/img"
+upload_dir: static/img"
 public_path: "/img"
 front_matter_path: "/img"
 use_front_matter_path: true
