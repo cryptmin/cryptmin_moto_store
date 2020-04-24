@@ -12,6 +12,7 @@ tags = ["KLR650", "Kawasaki", "KLX650", "M103M1"]
 thumbnailImage = "/img/20200419_223910.jpg"
 title = "KLR650 1987-2007 Fuse Box"
 variants = []
+weight = 36
 [options]
 
 +++
