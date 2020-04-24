@@ -12,3 +12,10 @@ title = "Cheese Grater"
 weight = 500
 
 +++
+\*VERY SPECIAL GRATER*
+
+_YOU KNOW MARKDOWN_
+
+> foobar
+
+* FOOBAR
