@@ -39,5 +39,15 @@ fields:
     required: false
   label: description
   description: Basic description of product.
+- name: weight
+  type: number
+  label: weight
+  description: weight in grams
+  default: 0
+  required: true
+  config:
+    min: 
+    max: 
+    step: 
 pages:
 - content/products/fuse-box.md
