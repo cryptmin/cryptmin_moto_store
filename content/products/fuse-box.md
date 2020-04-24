@@ -4,12 +4,12 @@ categories = ["Fuse Box's"]
 comparePrice = ""
 date = 2020-04-21T04:00:00Z
 description = "KLR 650 Fuse Box"
-images = ["img/20200419_223825.jpg", "img/20200419_223543.jpg", "img/20200419_223946.jpg"]
+images = ["/img/20200419_223910.jpg", "/img/20200419_223825.jpg"]
 inStock = true
 instock = false
 sku = "klr650_fuse_box"
 tags = ["KLR650", "Kawasaki", "KLX650", "M103M1"]
-thumbnailImage = "img/20200419_223543.jpg"
+thumbnailImage = "/img/20200419_223910.jpg"
 title = "KLR650 1987-2007 Fuse Box"
 variants = []
 [options]
