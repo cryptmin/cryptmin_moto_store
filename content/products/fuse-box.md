@@ -22,7 +22,9 @@ The OEM fusebox is notorious for melting or the glass fuses cracking.
 
 **Leaving you stranded.**
 
-Replace your out-dated fusebox with this modern water-proof, dust-proof and salt spray resistant unit that utilizes easily acquired mini ATC blade fuses.
+Replace your out-dated fusebox with this modern water-proof, dust-proof, and salt spray resistant unit that utilizes easily acquired mini ATC blade fuses.
+
+_Fusebox holds two **included spare fuses**, not shown in the pictures._
 
 Made in Canada from high-quality components.
 
@@ -40,3 +42,11 @@ Requires no cutting or modification to factory harness.
 * Kawasaki KLR 650 1987-2007 - all models
 * Kawasaki KLX 1993-1996
 * Hayes Diversified Technologies M103M1
+
+**What is included:**
+
+* Fuse box
+* 2x 10 Amp Fuses
+* 2x 20 Amp Fuses
+
+_Product may vary slightly from pictures._ 
