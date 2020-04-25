@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>grater on Cryptmin Moto</title>
+    <link>https://shop.cryptmin.net/tags/grater/</link>
+    <description>Recent content in grater on Cryptmin Moto</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 23 Apr 2020 04:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://shop.cryptmin.net/tags/grater/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Cheese Grater</title>
+      <link>https://shop.cryptmin.net/products/cheese-grater/</link>
+      <pubDate>Thu, 23 Apr 2020 04:00:00 +0000</pubDate>
+      
+      <guid>https://shop.cryptmin.net/products/cheese-grater/</guid>
+      <description>*VERY SPECIAL GRATER*
+YOU KNOW MARKDOWN
+ foobar
+  FOOBAR  </description>
+    </item>
+    
+  </channel>
+</rss>
