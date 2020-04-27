@@ -1,0 +1,12 @@
+<meta charset="utf-8">
+{{ with .Title }}<title>{{ . }}</title>{{ end }}
+{{ with .Site.Params.description }}<meta name="description" content="{{ . }}">{{ end }}
+<meta name="robots" content="all,follow">
+<meta name="googlebot" content="index,follow,snippet,archive">
+<link rel="shortcut icon" type="image/x-icon" href="{{ .Site.BaseURL }}img/favicon.ico">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<link rel="stylesheet" href="{{ "css/bootstrap.min.css" | absURL }}">
+<link rel="stylesheet" href="https://cdn.snipcart.com/themes/v3.0.11/default/snipcart.css" />
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.2/jquery.min.js"></script>
+<div hidden id="snipcart" data-api-key="ZjhlM2Y1ZTMtOWNiNS00N2RmLTg0MWEtM2U2NmQ1NzQzYWFjNjM3MjI5OTM5NjAxODY0ODU2"></div>
+<script src="https://cdn.snipcart.com/themes/v3.0.11/default/snipcart.js"></script>
