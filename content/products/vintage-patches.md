@@ -1,5 +1,5 @@
 +++
-actualPrice = "5"
+actualPrice = "5.00"
 categories = ["Vintage Badge"]
 date = 2020-04-27T04:00:00Z
 description = "Vintage 3rd Mate Patch"
