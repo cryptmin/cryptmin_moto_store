@@ -1,5 +1,5 @@
 +++
-actualPrice = "40"
+actualPrice = "40.00"
 categories = ["Fuse Box's"]
 comparePrice = ""
 date = 2020-04-21T04:00:00Z
