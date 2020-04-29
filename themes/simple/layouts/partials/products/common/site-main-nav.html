@@ -1,5 +1,6 @@
-<nav class="navbar navbar-expand navbar-light justify-content-center">
-    <ul class="navbar-nav">
+<div class="container">
+  <nav class="navbar navbar-expand navbar-light justify-content-center">
+    <ul class="navbar-nav bg-light">
         <li class="nav-item">
             <a class="nav-link" href="{{ "products/" | absURL }}">Home</a>
         </li>
@@ -8,6 +9,9 @@
             <a class="nav-link" href="{{ .Permalink }}">{{ .Title | title }}</a>
         </li>
         {{ end }}
+        <li class="nav-item">
+            <a class="snipcart-checkout nav-link" href="#">View Cart</a>
+        </li>
     </ul>
-    <a href="#" class="snipcart-checkout" style="text-decoration: none; text-decoration-color: none;">View Cart</a>
-</nav>
+  </nav>
+</div>
