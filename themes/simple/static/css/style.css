@@ -1,12 +1,27 @@
 body {
     font-family: 'Raleway';
     font-size: 22px;
-    background-color: #eff0f2;
 }
 
 img.single {
-    border-radius: 50%;
-    border: 5px double #77b255;
+    border-radius: 25%;
     width: 40%;
     padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+button.snipcart-add-item {
+  border-radius: 5%;
+  margin-left: 10px;
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
 }

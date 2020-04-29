@@ -1,0 +1,12 @@
+body {
+    font-family: 'Raleway';
+    font-size: 22px;
+    background-color: #eff0f2;
+}
+
+img.single {
+    border-radius: 50%;
+    border: 5px double #77b255;
+    width: 40%;
+    padding: 10px;
+}

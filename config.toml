@@ -1,6 +1,6 @@
 baseURL = "https://shop.cryptmin.net/"
 languageCode = "en-us"
-title = "Cryptmin Moto"
+title = "CRYPTMIN MOTO"
 theme = "simple"
 [Params]
 description = ""
