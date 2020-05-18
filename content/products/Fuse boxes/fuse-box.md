@@ -1,6 +1,6 @@
 +++
 actualPrice = "40.00"
-categories = ["Fuse Box's"]
+categories = []
 comparePrice = ""
 date = 2020-04-21T04:00:00Z
 description = "KLR 650 Fuse Box"
