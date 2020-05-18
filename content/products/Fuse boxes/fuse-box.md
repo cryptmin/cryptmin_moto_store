@@ -25,7 +25,7 @@ Replace your out-dated fusebox with this modern water-proof, dust-proof, and sal
 
 _Fusebox holds two **included spare fuses**, not shown in the pictures._
 
-Made in Canada from high-quality components.
+Made in Canada from high-quality components. 
 
 Requires no cutting or modification to factory harness.
 
