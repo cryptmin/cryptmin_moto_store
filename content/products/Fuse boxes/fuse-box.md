@@ -6,7 +6,6 @@ date = 2020-04-21T04:00:00Z
 description = "KLR 650 Fuse Box"
 images = ["/img/resized-cropped-Fuse-Box-Alt-01.jpg", "/img/resized-cropped-Fuse-Box-Alt-02.jpg", "/img/resized-cropped-Fuse-Box-Main-02.jpg", "/img/resized-cropped-Fuse-Box-Main-01.jpg"]
 inStock = true
-instock = false
 sku = "klr650_fuse_box"
 tags = ["KLR650", "Kawasaki", "KLX650", "M103M1"]
 thumbnailImage = "/img/resized-cropped-Fuse-Box-Main-02.jpg"
@@ -49,4 +48,4 @@ Requires no cutting or modification to factory harness.
 * 2x 10 Amp Fuses
 * 2x 20 Amp Fuses
 
-_Product may vary slightly from pictures._ 
+_Product may vary slightly from pictures._
