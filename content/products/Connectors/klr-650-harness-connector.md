@@ -1,6 +1,6 @@
 +++
 actualPrice = "10.00"
-categories = []
+categories = ["Connectors"]
 date = 2020-04-29T04:00:00Z
 description = "KLR 650 harness connector"
 images = ["/img/20200429_200459.png"]
@@ -12,4 +12,4 @@ title = "KLR 650 Harness Connector"
 weight = 5
 
 +++
-Kit includes two connectors and two sets of pins. 
+Kit includes two connectors and two sets of pins.
