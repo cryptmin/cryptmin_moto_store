@@ -1,0 +1,33 @@
+{{ define "main" }}
+  {{ range .Pages }}
+  <header>
+    <h1 class="text-center">CRYPTMIN MOTO</h1>
+  </header>
+  <div class="container">
+    <nav class="navbar navbar-expand navbar-light justify-content-center">
+      <ul class="navbar-nav ">
+          <li class="nav-item ">
+              <a class="nav-link text-white" href="{{ "products/" | absURL }}">Home</a>
+          </li>
+          {{ range ($.Site.GetPage "taxonomyTerm" "categories").Pages }}
+          <li class="nav-item">
+              <a class="nav-link text-white" href="{{ .Permalink }}">{{ .Title | title }}</a>
+          </li>
+          {{ end }}
+          <li class="nav-item">
+              <a class="nav-link text-white" href="{{ "posts/" |absURL }}">About Us</a>
+          </li>
+          <li class="nav-item">
+              <a class="snipcart-checkout nav-link text-white" href="#">View Cart</a>
+          </li>
+      </ul>
+    </nav>
+  </div>
+  <article>
+    <h2>{{ .Title }}</h2>
+    <div class="container">
+    {{ .Content }}
+  </div>
+  </article>
+  {{ end }}
+{{ end }}
