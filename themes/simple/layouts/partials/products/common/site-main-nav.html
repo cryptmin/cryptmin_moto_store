@@ -1,16 +1,16 @@
 <div class="container">
   <nav class="navbar navbar-expand navbar-light justify-content-center">
-    <ul class="navbar-nav bg-light">
-        <li class="nav-item">
-            <a class="nav-link" href="{{ "products/" | absURL }}">Home</a>
+    <ul class="navbar-nav ">
+        <li class="nav-item ">
+            <a class="nav-link text-white" href="{{ "products/" | absURL }}">Home</a>
         </li>
         {{ range ($.Site.GetPage "taxonomyTerm" "categories").Pages }}
         <li class="nav-item">
-            <a class="nav-link" href="{{ .Permalink }}">{{ .Title | title }}</a>
+            <a class="nav-link text-white" href="{{ .Permalink }}">{{ .Title | title }}</a>
         </li>
         {{ end }}
         <li class="nav-item">
-            <a class="snipcart-checkout nav-link" href="#">View Cart</a>
+            <a class="snipcart-checkout nav-link text-white" href="#">View Cart</a>
         </li>
     </ul>
   </nav>

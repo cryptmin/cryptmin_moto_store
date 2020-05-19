@@ -2,6 +2,8 @@
 <p>
     <span class="product-compare-price"style="text-decoration: line-through">{{ .Params.comparePrice }}</span>
     <span class="product-actual-price">$ {{ .Params.actualPrice }} USD</span>
+    <span class="product-not-in-stock" class="font-weight-bold" {{ if .Params.inStock }} style="display:none;" {{end}}>— Sold Out</span>
+    {{ if .Params.inStock }} 
     <button
           class="snipcart-add-item"
           data-item-id="{{ .URL }}"
@@ -16,7 +18,7 @@
       >
       Add to Cart
       </button>
-    <span class="product-not-in-stock" class="font-weight-bold" {{ if .Params.inStock }} style="display:none" {{end}}>— Sold Out</span>
+    {{end}}
 </p>
 <p>
     {{ range $index, $element := .Params.options }}
@@ -34,3 +36,4 @@
     var productInStock = {{ .Params.inStock }}
     var productVariants = JSON.parse({{ .Params.variants | jsonify }})
 </script>
+

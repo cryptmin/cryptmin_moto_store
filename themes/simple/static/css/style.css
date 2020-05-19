@@ -1,7 +1,6 @@
-body {
-    font-family: 'Raleway';
-    font-size: 22px;
-    background-color: #FFF;
+.text-center {
+    font-family: 'Racing Sans One';
+    text-shadow: 2px 2px 2px #888;
 }
 
 img.single {
@@ -14,15 +13,22 @@ img.single {
     margin-left: 10px;
 }
 
+li.nav-item {
+    font-size: 13px;
+    background-color: #77b255;
+    margin-right: 2px;
+    margin-left: 2px;
+}
+
 button.snipcart-add-item {
   border-radius: 5%;
   margin-left: 10px;
-  background-color: #4CAF50; /* Green */
+  background-color: #77b255; /* Green */
   border: none;
   color: white;
-  padding: 15px 32px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
   font-size: 16px;
 }
+

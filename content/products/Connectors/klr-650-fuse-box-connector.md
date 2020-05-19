@@ -1,6 +1,6 @@
 +++
 actualPrice = "10.00"
-categories = []
+categories = ['Connectors']
 date = 2020-04-29T04:00:00Z
 description = "KLR 650 Fuse Box Connector"
 images = ["/img/20200429_200708.png"]
