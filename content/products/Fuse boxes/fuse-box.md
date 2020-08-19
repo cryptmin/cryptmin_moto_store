@@ -1,11 +1,11 @@
 +++
 actualPrice = "40.00"
-categories = ['Fuse Boxes']
+categories = ["Fuse Boxes"]
 comparePrice = ""
 date = 2020-04-21T04:00:00Z
 description = "KLR 650 Fuse Box"
 images = ["/img/resized-cropped-Fuse-Box-Alt-01.jpg", "/img/resized-cropped-Fuse-Box-Alt-02.jpg", "/img/resized-cropped-Fuse-Box-Main-02.jpg", "/img/resized-cropped-Fuse-Box-Main-01.jpg"]
-inStock = true
+inStock = false
 sku = "klr650_fuse_box"
 tags = ["KLR650", "Kawasaki", "KLX650", "M103M1"]
 thumbnailImage = "/img/resized-cropped-Fuse-Box-Main-02.jpg"
