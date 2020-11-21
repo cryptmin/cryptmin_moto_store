@@ -14,10 +14,10 @@ weight = 40
 +++
 **Honda Goldwing GL1000 - 1975-1977 Main Fuse Replacement**
 
-The OEM fusebox uses a "dog-bone" fuse which is increasingly difficult to find, especially when you need it most. Many people simply by-pass the fuse, this is dangerous! This is a high-quality direct replacement fusebox utilizing easily obtained automotive blade fuses. 
+The OEM fusebox uses a "dog-bone" fuse which is increasingly difficult to find, especially when you need it most. Many people simply by-pass the fuse, this is dangerous! This is a high-quality direct replacement fusebox utilizing easily obtained automotive blade fuses.
 
 Specs:
 
-* High temperature flexible 14 AWG silicone wire.
+* High temperature flexible 14 AWG silicone wire
 * OEM Japanese connector and contacts
 * USA made ring terminal
