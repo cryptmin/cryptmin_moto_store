@@ -1,5 +1,5 @@
 +++
-actualPrice = "40"
+actualPrice = "40.00"
 categories = []
 date = 2020-11-20T05:00:00Z
 description = "GL1000 Main Fuse"
