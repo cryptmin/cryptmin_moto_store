@@ -1,6 +1,6 @@
 +++
 actualPrice = "40.00"
-categories = ["Fuse Box's"]
+categories = ["Fuse Boxes"]
 date = 2020-11-20T05:00:00Z
 description = "GL1000 Main Fuse"
 images = ["/img/whatsapp-image-2020-11-20-at-5-11-39-pm.jpeg", "/img/whatsapp-image-2020-11-20-at-5-11-38-pm-1.jpeg"]
