@@ -9,7 +9,7 @@ sku = "GL1000_Main_Fuse"
 tags = ["honda", "gl1000", "mainfuse", "goldwing"]
 thumbnailImage = "/img/whatsapp-image-2020-11-20-at-5-11-39-pm.jpeg"
 title = "Honda GL1000 Main Fusebox"
-weight = 36
+weight = 40
 
 +++
 **Honda Goldwing GL1000 - 1975-1977 Main Fuse Replacement**
